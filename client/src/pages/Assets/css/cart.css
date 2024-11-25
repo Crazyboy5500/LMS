@@ -1,0 +1,14 @@
+.cart-button {
+  padding: 0.8rem 1rem;
+  margin: 1rem 0rem 1rem 14rem;
+  border: 1px solid black;
+  transition: background-color 0.5s;
+  font-family: poppins;
+  cursor: pointer; /* Apply transition to background-color property */
+}
+
+.cart-button:hover {
+  background-color: #3d5a80;
+  border: 1px solid transparent;
+  color: white;
+}
